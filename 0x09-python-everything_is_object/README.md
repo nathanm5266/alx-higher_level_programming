@@ -1,0 +1,1 @@
+# A directory for the project Python Everything is object
