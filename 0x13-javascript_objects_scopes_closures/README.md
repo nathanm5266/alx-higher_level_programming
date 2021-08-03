@@ -1,0 +1,1 @@
+# A directory for Java script objects scopes and closures
